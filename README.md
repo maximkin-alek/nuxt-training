@@ -1,4 +1,4 @@
-# rak-lechitsa
+# Разработка сайта для благотворительного проекта rak-lechitsa
 
 > project for rak lechitsa
 
